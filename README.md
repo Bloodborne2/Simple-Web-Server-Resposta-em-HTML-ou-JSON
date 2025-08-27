@@ -18,7 +18,7 @@ A lógica de formatação está desacoplada por meio da interface `OpcaoSaida` e
 
 Requisição HTML:
 
-[curl -H "Accept: text/html" http://localhost:35000/](http://localhost:8080/?nome=Fulano&email=fulano@email.com)
+http://localhost:8080/?nome=Fulano&email=fulano@email.com
 
 Requisição JSON (cmd):
 
