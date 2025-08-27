@@ -14,7 +14,7 @@ A lógica de formatação está desacoplada por meio da interface `OpcaoSaida` e
 - `OpcaoSaidaHTML.java` → Implementação que retorna resposta HTML.
 - `OpcaoSaidaJSON.java` → Implementação que retorna resposta JSON.
 
-##Exemplos de teste com cURL:
+## Exemplos de teste com cURL:
 
 Requisição HTML:
 
